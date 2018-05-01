@@ -1,7 +1,6 @@
-package com.liucz.activemq.consumer;
+package com.liucz.consumer;
 
-
-import com.liucz.activemq.base.Template;
+import com.liucz.base.Template;
 import net.sf.json.JSONObject;
 import org.apache.activemq.command.ActiveMQObjectMessage;
 import org.slf4j.Logger;

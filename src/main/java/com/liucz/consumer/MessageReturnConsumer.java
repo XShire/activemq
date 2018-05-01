@@ -1,4 +1,4 @@
-package com.liucz.activemq.consumer;
+package com.liucz.consumer;
 
 import net.sf.json.JSONObject;
 import org.slf4j.Logger;

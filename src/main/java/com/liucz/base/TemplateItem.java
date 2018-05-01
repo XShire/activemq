@@ -1,4 +1,4 @@
-package com.liucz.activemq.base;
+package com.liucz.base;
 
 public class TemplateItem {
 

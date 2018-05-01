@@ -1,7 +1,6 @@
-package com.liucz.activemq.Component;
+package com.liucz.Component;
 
-
-import com.liucz.activemq.base.TemplateItem;
+import com.liucz.base.TemplateItem;
 import net.sf.json.JSONObject;
 import org.springframework.stereotype.Component;
 

@@ -1,7 +1,7 @@
-package com.liucz.activemq.producer;
+package com.liucz.producer;
 
-import com.liucz.activemq.Component.CommonComponent;
-import com.liucz.activemq.base.Template;
+import com.liucz.Component.CommonComponent;
+import com.liucz.base.Template;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.slf4j.Logger;
@@ -12,6 +12,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import java.util.HashMap;
 import java.util.Map;
+
+import static org.junit.Assert.*;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

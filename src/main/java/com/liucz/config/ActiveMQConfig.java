@@ -1,4 +1,4 @@
-package com.liucz.activemq.config;
+package com.liucz.config;
 
 import org.apache.activemq.command.ActiveMQQueue;
 import org.apache.activemq.command.ActiveMQTopic;

@@ -1,4 +1,4 @@
-package com.liucz.activemq.producer;
+package com.liucz.producer;
 
 import org.apache.activemq.command.ActiveMQQueue;
 import org.apache.activemq.command.ActiveMQTopic;

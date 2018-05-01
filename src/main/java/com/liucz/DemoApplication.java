@@ -1,4 +1,4 @@
-package com.liucz.activemq;
+package com.liucz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,9 +6,9 @@ import org.springframework.jms.annotation.EnableJms;
 
 @SpringBootApplication
 @EnableJms
-public class ActivemqApplication {
+public class DemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ActivemqApplication.class, args);
+        SpringApplication.run(DemoApplication.class, args);
     }
 }
